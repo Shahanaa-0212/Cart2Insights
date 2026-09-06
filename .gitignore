@@ -4,3 +4,7 @@ __pycache__/
 .env
 *.zip
 cart2insights.db
+
+data/raw/*.csv
+data/cleaned/*.csv
+data/engineered/*.csv
